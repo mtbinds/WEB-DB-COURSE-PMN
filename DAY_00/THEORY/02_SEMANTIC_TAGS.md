@@ -157,7 +157,7 @@ b. `<figure>` et `<figcaption>`
 
 - **Éviter le Sur-usage des `<div>` :** Bien que `<div>` soit toujours valide, évitez de l'utiliser comme conteneur par défaut. Privilégiez les balises sémantiques qui décrivent réellement le contenu.
 
-- **Accessibilité :** Pensez à l'accessibilité en utilisant des balises qui aident les technologies d'assistance à interpréter votre contenu. Utilisez des attributs aria si nécessaire.
+- **Accessibilité :** Pensez à l'accessibilité en utilisant des balises qui aident les technologies d'assistance à interpréter votre contenu. Utilisez des attributs ***aria*** si nécessaire.
 
 - **Validation :** Utilisez des outils de validation HTML pour vérifier que votre code respecte les normes du ***W3C*** et qu'il utilise correctement les balises sémantiques.
 
