@@ -139,7 +139,7 @@ a. `<time>`
 ```
 b. `<figure>` et `<figcaption>`
 
-- **Description :** <figure> est utilisé pour représenter un contenu illustratif, tandis que <figcaption> fournit une légende pour ce contenu.
+- **Description :** <figure> est utilisé pour représenter un contenu illustratif, tandis que `<figcaption>` fournit une légende pour ce contenu.
 - **Usage :** Utilisé pour les images, les graphiques ou les diagrammes.
 - **Exemple :**
 
@@ -151,11 +151,11 @@ b. `<figure>` et `<figcaption>`
 ```
 ## 5. Bonnes Pratiques pour Utiliser des Balises Sémantiques
 
-- **Utilisation Cohérente :** Choisissez des balises qui reflètent le contenu qu'elles contiennent. Par exemple, utilisez <article> pour un blog et <aside> pour des notes complémentaires.
+- **Utilisation Cohérente :** Choisissez des balises qui reflètent le contenu qu'elles contiennent. Par exemple, utilisez `<article>` pour un blog et `<aside>` pour des notes complémentaires.
 
 - **Structure Logique :** Organisez votre contenu de manière logique en utilisant des balises pour délimiter les différentes sections, cela aide à la lisibilité et à la navigation.
 
-- **Éviter le Sur-usage des <div> :** Bien que <div> soit toujours valide, évitez de l'utiliser comme conteneur par défaut. Privilégiez les balises sémantiques qui décrivent réellement le contenu.
+- **Éviter le Sur-usage des <div> :** Bien que `<div>` soit toujours valide, évitez de l'utiliser comme conteneur par défaut. Privilégiez les balises sémantiques qui décrivent réellement le contenu.
 
 - **Accessibilité :** Pensez à l'accessibilité en utilisant des balises qui aident les technologies d'assistance à interpréter votre contenu. Utilisez des attributs aria si nécessaire.
 
