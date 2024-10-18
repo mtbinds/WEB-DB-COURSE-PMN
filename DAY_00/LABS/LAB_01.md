@@ -129,9 +129,12 @@ body {
 
 ### Livrable
 
-- Rédigez un court rapport d'environ 200 mots sur vos observations concernant les balises obsolètes dans chaque navigateur. Incluez :
+- Rédigez un court rapport d'environ ***200 mots*** sur vos observations concernant les balises obsolètes dans chaque navigateur. Incluez :
+  
   - Quel navigateur a le mieux géré ces balises ?
   - Quel navigateur a montré des erreurs ou un rendu inattendu ?
+
+- [Lien pour déposer le rapport - LAB 01](https://classroom.google.com/c/NzI0MzA5NDQ2NTc3?cjc=elqswn3)
 
 ## Exercice 4 : Utilisation des outils de développement
 
