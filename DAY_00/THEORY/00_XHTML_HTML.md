@@ -4,7 +4,7 @@
 
 **HTML (HyperText Markup Language)** et **XHTML (eXtensible HyperText Markup Language)** sont des langages de balisage utilisés pour structurer et présenter du contenu sur le Web. Ils sont les fondations de toute page web, permettant aux navigateurs d’afficher du texte, des images, des vidéos, et d'autres types de contenu.
 
-**HTML** est flexible et permissif en termes de syntaxe, tandis que **XHTML** suit des règles plus strictes issues du XML, garantissant un code bien formé et rigoureux.
+**HTML** est flexible et permissif en termes de syntaxe, tandis que **XHTML** suit des règles plus strictes issues du **XML**, garantissant un code bien formé et rigoureux.
 
 ## 2. Qu'est-ce que HTML ?
 
