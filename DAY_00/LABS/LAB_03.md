@@ -122,7 +122,7 @@ Sélecteurs de descendant : sélectionnez des éléments en fonction de leur hi�
 ### Instructions
 
 1. Modifiez votre feuille de styles pour qu'elle soit responsive :
-2. Utilisez des unités relatives (comme em, rem, %) plutôt que des unités absolues (comme px).
+2. Utilisez des unités relatives (comme ***em***, ***rem***, ***%***) plutôt que des unités absolues (comme px).
 3. Ajoutez des media queries pour adapter la mise en page et les styles en fonction de la taille de l'écran.
 
 - Voici un exemple de media query :
