@@ -33,7 +33,7 @@ La performance d'un moteur de rendu est cruciale pour l'expérience utilisateur.
 
   - Minimiser le nombre de requêtes HTTP en combinant les fichiers CSS et JavaScript.
   - Utiliser des techniques de lazy loading pour les images et autres ressources non critiques.
-  - Compresser les fichiers (***HTM***L, ***CSS***, ***JavaScript***) pour réduire leur taille.
+  - Compresser les fichiers (***HTML***, ***CSS***, ***JavaScript***) pour réduire leur taille.
 
 #### 2.1.2 Optimisation du rendu
 
