@@ -60,7 +60,7 @@
 
 ### Instructions
 
-1. Créez un nouveau fichier nommé ***index.xhml***.
+1. Créez un nouveau fichier nommé ***index.xhtml***.
 2. Convertissez le code de votre fichier ***index.html*** en ***XHTML***. Voici quelques points à prendre en compte :
 
 - Utilisez des balises auto-fermantes pour les éléments vides (comme `<br />` et `<img />`).
