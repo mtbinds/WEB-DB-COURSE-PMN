@@ -1,6 +1,8 @@
-# Cours Web + BDD
+# La passerelle du numérique
 
 **Préparé par MT**
+
+**Infotec 2024**
 
 ## Plan du cours
 
