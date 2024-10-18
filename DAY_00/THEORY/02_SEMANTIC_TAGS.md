@@ -155,7 +155,7 @@ b. `<figure>` et `<figcaption>`
 
 - **Structure Logique :** Organisez votre contenu de manière logique en utilisant des balises pour délimiter les différentes sections, cela aide à la lisibilité et à la navigation.
 
-- **Éviter le Sur-usage des <div> :** Bien que `<div>` soit toujours valide, évitez de l'utiliser comme conteneur par défaut. Privilégiez les balises sémantiques qui décrivent réellement le contenu.
+- **Éviter le Sur-usage des `<div>` :** Bien que `<div>` soit toujours valide, évitez de l'utiliser comme conteneur par défaut. Privilégiez les balises sémantiques qui décrivent réellement le contenu.
 
 - **Accessibilité :** Pensez à l'accessibilité en utilisant des balises qui aident les technologies d'assistance à interpréter votre contenu. Utilisez des attributs aria si nécessaire.
 
