@@ -11,7 +11,7 @@
   - [Partie théorique](./DAY_00/THEORY/)
    
     - [Partie 00](./DAY_00/THEORY/00_XHTML_HTML.md)
-    - [Partie 00](./DAY_00/THEORY/01_RENDERING_ENGINES.md)
+    - [Partie 01](./DAY_00/THEORY/01_RENDERING_ENGINES.md)
 
  Coming Soon  
   
