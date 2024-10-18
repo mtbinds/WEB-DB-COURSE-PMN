@@ -21,6 +21,8 @@
     - [Partie 05]()
   
   - [Partie pratique](./DAY_00/LABS/)
+    
+    - [Lab 00](./DAY_00/LABS/LAB_00.md)
 
 - [Jour 01]()
 - [Jour 02]()
