@@ -12,11 +12,11 @@
 
  Coming Soon  
   
-   - [Partie 01]()
-   - [Partie 02]()
-   - [Partie 03]()
-   - [Partie 04]()
-   - [Partie 05]()
+    - [Partie 01]()
+    - [Partie 02]()
+    - [Partie 03]()
+    - [Partie 04]()
+    - [Partie 05]()
   
   - [Partie pratique](./DAY_00/LABS/)
 
