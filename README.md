@@ -28,6 +28,7 @@
     - [Lab 00](./DAY_00/LABS/LAB_00.md)
     - [Lab 01](./DAY_00/LABS/LAB_01.md)
     - [Lab 02](./DAY_00/LABS/LAB_02.md)
+    - [Lab 02](./DAY_00/LABS/LAB_03.md)
   
 - [Jour 01]()
 - [Jour 02]()
