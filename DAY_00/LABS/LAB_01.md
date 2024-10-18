@@ -83,6 +83,7 @@ body {
 ### Livrable
 
 - Rédigez un rapport comparatif d'environ ***300 mots*** sur le rendu de votre page web dans différents navigateurs. Incluez les éléments suivants :
+  
   - Ce qui a bien fonctionné.
   - Ce qui n'a pas fonctionné ou a rendu différemment.
   - Des captures d'écran des résultats dans chaque navigateur (si possible).
