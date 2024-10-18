@@ -12,6 +12,7 @@
    
     - [Partie 00](./DAY_00/THEORY/00_XHTML_HTML.md)
     - [Partie 01](./DAY_00/THEORY/01_RENDERING_ENGINES.md)
+    - [Partie 02](./DAY_00/THEORY/02_SEMANTIC_TAGS.md)
 
  Coming Soon  
   
