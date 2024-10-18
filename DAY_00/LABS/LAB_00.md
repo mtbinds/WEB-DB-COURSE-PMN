@@ -53,7 +53,7 @@
 ```
 ### Validation
 
-- Ouvrez le fichier index.html dans votre navigateur pour voir la page.
+- Ouvrez le fichier ***index.html*** dans votre navigateur pour voir la page.
 - Vérifiez que la structure est correcte, et que tous les éléments s'affichent comme prévu.
 
 ## Exercice 2 : Conversion en XHTML
@@ -69,7 +69,7 @@
 
 - **Exemple**
 
-Voici à quoi pourrait ressembler une partie de votre code XHTML :
+Voici à quoi pourrait ressembler une partie de votre code ***XHTML*** :
 
 ```xml
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
@@ -173,7 +173,7 @@ footer {
 
 ### Instructions
 
-1. Utilisez un validateur HTML et XHTML pour vérifier la validité de votre code.
+1. Utilisez un validateur ***HTML*** et ***XHTML*** pour vérifier la validité de votre code.
   - [W3C Markup Validation Service](https://validator.w3.org/).
 2. Assurez-vous que votre code suit les bonnes pratiques de structuration :
 3. Utilisez l'indentation correcte pour rendre votre code lisible.
@@ -182,7 +182,7 @@ footer {
 ### Validation
 
 - Corrigez les erreurs signalées par le validateur et testez à nouveau.
-- Soumettez votre travail (les fichiers index.html, index.xhtml, et styles.css).
+- Soumettez votre travail (les fichiers ***index.html***, ***index.xhtml***, et ***styles.css***).
 
 ## Conclusion
 
