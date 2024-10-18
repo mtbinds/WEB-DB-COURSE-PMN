@@ -8,7 +8,7 @@
   
   - [Partie théorique](./DAY_00/THEORY/)
    
-   - [Partie 00](./DAY_00/THEORY/00_XHTML_HTML.md)
+    - [Partie 00](./DAY_00/THEORY/00_XHTML_HTML.md)
 
  Coming Soon  
   
