@@ -134,7 +134,6 @@ body {
   - Quel navigateur a le mieux géré ces balises ?
   - Quel navigateur a montré des erreurs ou un rendu inattendu ?
 
-- [Lien pour déposer le rapport - LAB 01](https://classroom.google.com/c/NzI0MzA5NDQ2NTc3?cjc=elqswn3)
 
 ## Exercice 4 : Utilisation des outils de développement
 
@@ -152,6 +151,8 @@ body {
   - Les erreurs ou avertissements trouvés dans la console.
   - Les performances de chargement et leur impact sur le rendu.
 
+- [Lien pour déposer le rapport - LAB 01](https://classroom.google.com/c/NzI0MzA5NDQ2NTc3?cjc=elqswn3)
+  
 ## Conclusion
 
 Ce TP vous a permis de comprendre la problématique des moteurs de rendu, d’analyser les différences de rendu entre les navigateurs et d'explorer comment les choix de balisage et de styles peuvent affecter l'affichage des pages web. N'hésitez pas à approfondir vos connaissances en testant davantage de fonctionnalités et en explorant de nouveaux outils.
