@@ -4,7 +4,7 @@ Les balises sémantiques ont été introduites dans ***HTML5*** pour donner plus
 
 ## 1. Qu'est-ce que la sémantique en HTML ?
 
-La sémantique se réfère à la signification des éléments. Par exemple, une balise <header> est sémantique parce qu'elle indique clairement qu'elle contient l'en-tête d'une section ou d'un document. En contraste, une balise <div> ne donne aucune indication sur le type de contenu qu'elle contient, ce qui rend le document moins informatif.
+La sémantique se réfère à la signification des éléments. Par exemple, une balise `<header>` est sémantique parce qu'elle indique clairement qu'elle contient l'en-tête d'une section ou d'un document. En contraste, une balise `<div>` ne donne aucune indication sur le type de contenu qu'elle contient, ce qui rend le document moins informatif.
 
 ## 2. Importance des Balises Sémantiques
 
