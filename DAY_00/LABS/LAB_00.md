@@ -2,14 +2,14 @@
 
 ## Objectifs
 
-- Comprendre les différences entre HTML et XHTML.
-- Être capable de créer des pages web en utilisant HTML et XHTML.
+- Comprendre les différences entre ***HTML*** et ***XHTML***.
+- Être capable de créer des pages web en utilisant ***HTML*** et ***XHTML***.
 - Appliquer les meilleures pratiques de structuration et de validation du code.
 
 ## Prérequis
 
 - Avoir un éditeur de texte (comme ***Visual Studio Code***, ***Sublime Text*** ou ***Notepad++***).
-- Avoir un navigateur web pour tester vos pages (comme Chrome, Firefox ou Safari).
+- Avoir un navigateur web pour tester vos pages (comme ***Chrome***, ***Firefox*** ou ***Safari***).
 
 ## Exercice 1 : Création d'une page HTML simple
 
