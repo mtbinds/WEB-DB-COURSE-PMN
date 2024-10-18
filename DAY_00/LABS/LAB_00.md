@@ -192,7 +192,7 @@ Ce TP vous a permis de vous familiariser avec les bases de ***HTML*** et ***XHTM
 ## Points importants à retenir
 
 - **HTML** est le langage de balisage standard pour créer des pages web.
-- **XHTML** est une version plus stricte et bien formée de HTML qui utilise XML.
+- **XHTML** est une version plus stricte et bien formée de ***HTML*** qui utilise ***XML***.
 - La structure et la validation du code sont essentielles pour garantir la compatibilité et la lisibilité.
 
 **Good Luck !**
