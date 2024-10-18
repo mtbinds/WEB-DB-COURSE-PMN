@@ -62,7 +62,7 @@ Chaque moteur de rendu peut interpréter le code de manière légèrement diffé
 - **Solutions :**
 
   - Tester l'application sur plusieurs navigateurs et appareils.
-  - Utiliser un reset CSS ou un normalize.css pour minimiser les différences de style par défaut.
+  - Utiliser un ***reset CSS*** ou un ***normalize.css*** pour minimiser les différences de style par défaut.
 
 ### 2.3 Rendu dynamique
 
@@ -162,6 +162,5 @@ La problématique des moteurs de rendu est essentielle à comprendre pour tout d
 
 ## 6. Ressources supplémentaires
 
-- [MDN Web Docs sur les moteurs de rendu](https://developer.mozilla.org/en-US/docs/Web/Performance/Rendering)
 - [Can I Use](https://caniuse.com/) - Vérifiez la compatibilité des fonctionnalités web.
 
