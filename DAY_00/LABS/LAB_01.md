@@ -151,7 +151,7 @@ body {
   - Les erreurs ou avertissements trouvés dans la console.
   - Les performances de chargement et leur impact sur le rendu.
 
-- [Lien pour déposer le rapport - LAB 01](https://classroom.google.com/c/NzI0MzA5NDQ2NTc3?cjc=elqswn3)
+- [Lien pour déposer les rapports - LAB 01](https://classroom.google.com/c/NzI0MzA5NDQ2NTc3?cjc=elqswn3)
   
 ## Conclusion
 
