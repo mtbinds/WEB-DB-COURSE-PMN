@@ -102,7 +102,7 @@
    - Des contraintes sur les types de données, comme le type `xs:string` pour les chaînes de caractères, `xs:integer` pour les années, et `xs:decimal` pour le prix.
    - Un attribut `devise` pour `<prix>`.
 
-2. **Application du schéma** : Modifiez le document XML pour lier le schéma XSD en ajoutant l’attribut `xsi:schemaLocation` dans l’élément racine.
+2. **Application du schéma** : Modifiez le document XML pour lier le schéma **XSD** en ajoutant l’attribut `xsi:schemaLocation` dans l’élément racine.
 
 **Exemple de schéma XSD :**
 
@@ -197,5 +197,5 @@ Ce **TP** vous a permis d'explorer différentes facettes de **XML**, de la créa
 ### Points clés à retenir
 
 - **DTD et XSD** permettent de valider la structure et l'intégrité des données **XML**.
-- **XSLT** est un outil puissant pour transformer XML en d’autres formats, comme **HTML**, pour la présentation.
+- **XSLT** est un outil puissant pour transformer **XML** en d’autres formats, comme **HTML**, pour la présentation.
 - Une bonne maîtrise de **XML** et de ses outils vous permet de structurer et d’utiliser les données de manière flexible et standardisée.

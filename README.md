@@ -2,7 +2,7 @@
 
 **Préparé par MT**
 
-**Infotec 2024**
+**PMN 2024**
 
 ---
 
@@ -35,6 +35,8 @@
   - [Partie pratique](./DAY_01/LABS/) 
     
     - [Lab 00](./DAY_01/LABS/LAB_00.md) 
+
+Coming Soon
 
 - [Jour 02]()
 
