@@ -30,7 +30,8 @@
  
   - [Partie théorique](./DAY_01/THEORY/)
     
-    - [Partie 00](./DAY_01/THEORY/00_XML.md) 
+    - [Partie 00](./DAY_01/THEORY/00_XML.md)
+    - [Partie 01](./DAY_01/THEORY/02_JSON.md) 
 
   - [Partie pratique](./DAY_01/LABS/) 
     
