@@ -3,7 +3,7 @@
 
 ## 1. Introduction
 
-**JSON (JavaScript Object Notation)** est un format de données textuel et léger, utilisé pour échanger des données de manière structurée. **JSON** est très populaire pour les échanges de données entre un serveur et un client. Ce format, bien que dérivé de la syntaxe JavaScript, est pris en charge par de nombreux langages de programmation, notamment **Python**, **Java**, **PHP**, et bien d’autres.
+**JSON (JavaScript Object Notation)** est un format de données textuel et léger, utilisé pour échanger des données de manière structurée. **JSON** est très populaire pour les échanges de données entre un serveur et un client. Ce format, bien que dérivé de la syntaxe **JavaScript**, est pris en charge par de nombreux langages de programmation, notamment **Python**, **Java**, **PHP**, et bien d’autres.
 
 Les fichiers **JSON** utilisent l’extension `.json` et sont facilement compréhensibles par les humains grâce à leur syntaxe simple et concise.
 
