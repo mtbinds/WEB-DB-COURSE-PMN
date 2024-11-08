@@ -2,9 +2,9 @@
 
 ## Objectifs
 
-- Comprendre les différents types de sélecteurs CSS.
-- Apprendre à utiliser des valeurs CSS pour styliser les éléments HTML.
-- Pratiquer la création et l'application de styles à l'aide de CSS.
+- Comprendre les différents types de sélecteurs **CSS**.
+- Apprendre à utiliser des valeurs **CSS** pour styliser les éléments **HTML**.
+- Pratiquer la création et l'application de styles à l'aide de **CSS**.
 
 ## Prérequis
 

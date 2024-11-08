@@ -15,14 +15,6 @@
     - [Partie 02](./DAY_00/THEORY/02_SEMANTIC_TAGS.md)
     - [Partie 03](./DAY_00/THEORY/03_CSS.md)
     - [Partie 04](./DAY_00/THEORY/04_CSS_SELECTORS_VALUES.md)
-
- Coming Soon  
-  
-    - [Partie 01]()
-    - [Partie 02]()
-    - [Partie 03]()
-    - [Partie 04]()
-    - [Partie 05]()
   
   - [Partie pratique](./DAY_00/LABS/)
     
@@ -32,5 +24,14 @@
     - [Lab 03](./DAY_00/LABS/LAB_03.md)
     - [Lab 04](./DAY_00/LABS/LAB_04.md)
   
-- [Jour 01]()
+- [Jour 01](./DAY_01/)
+ 
+  - [Partie théorique](./DAY_01/THEORY/)
+    
+    - [Partie 00](./DAY_01/THEORY/00_XML.md) 
+
+Coming Soon
+
+  - [Partie pratique](./DAY_01/LABS/) 
+
 - [Jour 02]()
