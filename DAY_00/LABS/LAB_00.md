@@ -186,7 +186,7 @@ footer {
 
 ## Conclusion
 
-Ce TP vous a permis de vous familiariser avec les bases de ***HTML*** et ***XHTML***, de créer des pages web simples, et d'appliquer des styles CSS. N'hésitez pas à explorer davantage et à expérimenter avec d'autres balises et propriétés CSS pour enrichir vos compétences en développement web.
+Ce **TP** vous a permis de vous familiariser avec les bases de ***HTML*** et ***XHTML***, de créer des pages web simples, et d'appliquer des styles CSS. N'hésitez pas à explorer davantage et à expérimenter avec d'autres balises et propriétés CSS pour enrichir vos compétences en développement web.
 
 
 ## Points importants à retenir

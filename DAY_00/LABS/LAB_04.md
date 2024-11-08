@@ -8,7 +8,7 @@
 
 ## Prérequis
 
-- Connaissance de base en HTML.
+- Connaissance de base en **HTML**.
 - Un éditeur de texte (comme ***Visual Studio Code***, ***Sublime Text***, etc.) et un navigateur web pour tester vos pages.
 
 ## Exercice 1 : Création d'une page HTML
@@ -203,7 +203,7 @@ header {
 
 ## Conclusion
 
-Ce TP vous a permis d'explorer les sélecteurs et les valeurs ***CSS3***. Vous avez appris à styliser une page HTML en utilisant divers sélecteurs, valeurs, et techniques avancées. Ces compétences sont essentielles pour la création de sites web attrayants et interactifs.
+Ce **TP** vous a permis d'explorer les sélecteurs et les valeurs ***CSS3***. Vous avez appris à styliser une page HTML en utilisant divers sélecteurs, valeurs, et techniques avancées. Ces compétences sont essentielles pour la création de sites web attrayants et interactifs.
 
 ### Points clés à retenir
 

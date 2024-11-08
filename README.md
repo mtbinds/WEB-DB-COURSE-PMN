@@ -4,6 +4,8 @@
 
 **Infotec 2024**
 
+---
+
 ## Plan du cours
 
 - [Jour 00](./DAY_00/)
@@ -33,5 +35,11 @@
 Coming Soon
 
   - [Partie pratique](./DAY_01/LABS/) 
+    
+    - [Lab 00](./DAY_01/LABS/LAB_00.md) 
 
 - [Jour 02]()
+
+---
+
+[## Lien Google Classrooms pour le dépôt des TPs et projet final](https://classroom.google.com/c/NzI0MzA5NDQ2NTc3?cjc=elqswn3).
