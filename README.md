@@ -38,7 +38,7 @@
     - [Lab 00](./PART_01/LABS/LAB_00.md) 
     - [Lab 01](./PART_01/LABS/LAB_01.md)
 
-- [Partie 03 : (théorie et pratique)](https://sql-webapp-course.vercel.app/)
+- [Partie 02 : (théorie et pratique)](https://sql-webapp-course.vercel.app/)
 
 ---
 
