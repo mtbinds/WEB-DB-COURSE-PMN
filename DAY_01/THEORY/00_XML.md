@@ -62,7 +62,7 @@ Dans cet exemple :
 
 #### Exemple de DTD
 
-Un DTD définit une structure de document XML avec des balises et des attributs acceptés.
+Un **DTD** définit une structure de document **XML** avec des balises et des attributs acceptés.
 
 ```dtd
 <!DOCTYPE bibliotheque [
@@ -123,14 +123,14 @@ Pour valider des fichiers **XML**, des outils comme **xmllint**, **Oxygen XML Ed
 
 1. **Lisibilité** : La structure hiérarchique rend le contenu lisible, facilitant la compréhension des données.
 2. **Extensibilité** : Les utilisateurs peuvent définir leurs propres balises, permettant une personnalisation infinie.
-3. **Compatibilité multiplateforme** : XML est compatible avec divers environnements, facilitant l'échange d'informations.
-4. **Validation** : Les schémas DTD et XSD garantissent des structures de documents robustes.
+3. **Compatibilité multiplateforme** : **XML** est compatible avec divers environnements, facilitant l'échange d'informations.
+4. **Validation** : Les schémas **DTD** et **XSD** garantissent des structures de documents robustes.
 
 ### 3.2 Limitations
 
-- **Verbosité** : XML est plus volumineux en raison de ses balises explicites, ce qui peut alourdir les fichiers.
+- **Verbosité** : **XML** est plus volumineux en raison de ses balises explicites, ce qui peut alourdir les fichiers.
 - **Complexité de la validation** : La définition et la maintenance de schémas peuvent être complexes.
-- **Performance** : XML demande davantage de ressources de traitement par rapport à des formats comme JSON.
+- **Performance** : **XML** demande davantage de ressources de traitement par rapport à des formats comme **JSON**.
 
 ### 3.3 Alternatives à XML
 
@@ -145,10 +145,10 @@ Pour maîtriser **XML**, voici des ressources conseillées :
 
 - **W3Schools XML Tutorial** : [W3Schools XML](https://www.w3schools.com/xml/)
 - **Documentation W3C sur XML** : [W3C XML Guide](https://www.w3.org/XML/)
-- **Cours et certifications** : Des plateformes comme Coursera, Udacity et edX proposent des cours XML complets.
+- **Cours et certifications** : Des plateformes comme Coursera, Udacity et edX proposent des cours **XML** complets.
 
 ## 5. Conclusion
 
 **XML** est un langage de balisage extensible et polyvalent pour structurer, stocker et échanger des données. Malgré ses limites en termes de verbosité et de performance, il demeure un choix fiable pour des applications nécessitant une structure hiérarchique robuste et une validation stricte. Grâce à des outils comme **DTD** et **XSD**, **XML** garantit la cohérence et l'intégrité des données, faisant de lui un standard incontournable dans des domaines variés, de la configuration logicielle aux services web.
 
-Pour aller plus loin, explorez les techniques avancées de manipulation XML avec **XPath** pour extraire des données et **XSLT** pour transformer des documents **XML**.
+Pour aller plus loin, explorez les techniques avancées de manipulation **XML** avec **XPath** pour extraire des données et **XSLT** pour transformer des documents **XML**.
