@@ -36,6 +36,7 @@
   - [Partie pratique](./DAY_01/LABS/) 
     
     - [Lab 00](./DAY_01/LABS/LAB_00.md) 
+    - [Lab 01](./DAY_01/LABS/LAB_01.md)
 
 Coming Soon
 
