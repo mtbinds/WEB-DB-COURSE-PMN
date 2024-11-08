@@ -32,8 +32,6 @@
     
     - [Partie 00](./DAY_01/THEORY/00_XML.md) 
 
-Coming Soon
-
   - [Partie pratique](./DAY_01/LABS/) 
     
     - [Lab 00](./DAY_01/LABS/LAB_00.md) 
