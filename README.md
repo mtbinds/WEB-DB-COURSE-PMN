@@ -42,4 +42,8 @@
 
 ---
 
+---
+
+## [Solutions des Exercices](./SOLUTIONS/)
+
 ## [Lien Google Classrooms pour le dépôt des TPs et projet final](https://classroom.google.com/c/NzI0MzA5NDQ2NTc3?cjc=elqswn3).
